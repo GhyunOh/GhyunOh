@@ -46,7 +46,19 @@
   </li>
 
   <li>
-    <a href="https://github.com/GhyunOh/Project/tree/main/telscope-log"><b>Telescope Log</b></a> — Structured logging and analysis for telescope observations.
+    <a href="https://github.com/GhyunOh/Project/tree/main/telescope-log"><b>Telescope Log</b></a> — Structured logging and analysis for telescope observations.
+  </li>
+
+  <li>
+    <a href="https://github.com/GhyunOh/Project/tree/main/Computer-Vision-for-automation"><b>Computer Vision for Automation</b></a> — Automated workflows via object detection + Windows API integration.
+  </li>
+
+  <li>
+    <a href="https://github.com/GhyunOh/Project/tree/main/Image-inpainting"><b>Image Inpainting (AI Challenge)</b></a> — Satellite image restoration project (7th/43, NIPA AI Competition 2022).
+  </li>
+
+  <li>
+    <a href="https://github.com/GhyunOh/Project/tree/main/deeplearning-hub"><b>DeepLearning Hub</b></a> — Beginner-friendly tutorial site for deep learning (YOLOv5, Colab, PyTorch).
   </li>
 
 </ul>
