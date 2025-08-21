@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> I am Jeehyun Oh, a Computer Science graduate passionate about AI, computer vision, and automation. </li>I have experience in various AI  models, data processing, and backend development. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> I am Jeehyun Oh, a Computer Science graduate passionate about AI, computer vision, and automation. <br>I have experience in various AI  models, data processing, and backend development. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
