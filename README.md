@@ -42,26 +42,19 @@
   </li>
 
   <li>
-    <a href="https://github.com/GhyunOh/Project/tree/main/telscope-benchmark-prototype"><b>Telescope Benchmark Prototype</b></a> — Large log handling & performance benchmarking.
+    <a href="https://github.com/GhyunOh/Project/tree/main/telescope-benchmark-prototype"><b>Telescope Benchmark Prototype</b></a> — Large log handling & performance benchmarking.
   </li>
 
   <li>
     <a href="https://github.com/GhyunOh/Project/tree/main/telscope-log"><b>Telescope Log</b></a> — Structured logging and analysis for telescope observations.
   </li>
 
-  <li>
-    <a href="https://github.com/GhyunOh/Project/tree/main/Computer-Vision-for-automation"><b>Computer Vision for Automation</b></a> — Automated workflows via object detection + Windows API integration.
-  </li>
-
-  <li>
-    <a href="https://github.com/GhyunOh/Project/tree/main/Image-impainting"><b>Image Inpainting (AI Challenge)</b></a> — Satellite image restoration project (7th/43, NIPA AI Competition 2022).
-  </li>
-
-  <li>
-    <a href="https://github.com/GhyunOh/Project/tree/main/deeplearning-hub"><b>DeepLearning Hub</b></a> — Beginner-friendly tutorial site for deep learning (YOLOv5, Colab, PyTorch).
-  </li>
-
 </ul>
+
+<div style="font-size: 14px; color: #c9d1d9; margin-top: 10px;">
+    📌 <b>Note:</b> The projects I worked on at university were not uploaded at my professor’s request.<br>
+    If you would like to review them, I’d be happy to discuss them during the interview.
+</div>
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Publications </h2> <br> 
