@@ -62,7 +62,7 @@
   </li>
 
   <li>
-    <a href="https://dl.acm.org/doi/abs/10.1145/3585059.3611416"><b>A Comprehensive Dataset Towards Hands-on Experience Enhancement in a Research-Involved Cybersecurity Program</b></a> — ACM ICEMT, 2023.
+    <a href="https://dl.acm.org/doi/abs/10.1145/3585059.3611416"><b>A Comprehensive Dataset Towards Hands-on Experience Enhancement in a Research-Involved Cybersecurity ...</b></a> — ACM ICEMT, 2023.
   </li>
 
   <li>
