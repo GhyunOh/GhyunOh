@@ -3,6 +3,10 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> About Me </h2>  
+    <div align="center">
+  <a href="mailto:jeehyun.oh98@gmail.com">Gmail</a> | 
+  <a href="https://www.linkedin.com/in/jeehyun-oh-967754261/">LinkedIn</a>
+</div>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> I am Jeehyun Oh, a Computer Science graduate passionate about AI, computer vision, and automation. <br>I have experience in various AI  models, data processing, and backend development. </div> 
     </div>
     <div align= "center">
