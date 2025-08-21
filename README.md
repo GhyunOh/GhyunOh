@@ -58,7 +58,7 @@
   </li>
 
   <li>
-    <a href="#"><b>Hackathon AI Challenge</b></a> — NIPA AI Online Competition (2022). Satellite image inpainting with diffusion/transformer models. Ranked 7th/43 (PSNR gap ~1 vs 1st place).
+    <a href="#"><b>Hackathon AI Challenge</b></a> — NIPA AI Online Competition (2022). Satellite image inpainting with diffusion/transformer models. Ranked 7th/43 (PSNR gap close to 1).
   </li>
 
 </ul>
