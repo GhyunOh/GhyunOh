@@ -49,6 +49,18 @@
     <a href="https://github.com/GhyunOh/Project/tree/main/telscope-log"><b>Telescope Log</b></a> — Structured logging and analysis for telescope observations.
   </li>
 
+  <li>
+    <a href="https://deeplearning-hub.github.io/"><b>Deep Learning Hub (DLHub)</b></a> — Beginner-friendly deep learning tutorials: environment setup, data preparation, and object detection with YOLO/Colab.
+  </li>
+
+  <li>
+    <a href="#"><b>Image Preprocessing & Automation Script</b></a> — Custom YOLO training with LabelImg data; Python window-cropping to reduce RAM usage; automation with Win32 API, keyboard & mouse controls.
+  </li>
+
+  <li>
+    <a href="#"><b>Hackathon AI Challenge</b></a> — NIPA AI Online Competition (2022). Satellite image inpainting with diffusion/transformer models. Ranked 7th/43 (PSNR gap ~1 vs 1st place).
+  </li>
+
 </ul>
 
 <div style="font-size: 14px; color: #c9d1d9; margin-top: 10px;">
