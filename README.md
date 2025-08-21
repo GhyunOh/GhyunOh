@@ -54,7 +54,7 @@
   </li>
 
   <li>
-    <a href="https://github.com/GhyunOh/Project/tree/main/Image-inpainting"><b>Image Inpainting (AI Challenge)</b></a> — Satellite image restoration project (7th/43, NIPA AI Competition 2022).
+    <a href="https://github.com/GhyunOh/Project/tree/main/Image-impainting"><b>Image Inpainting (AI Challenge)</b></a> — Satellite image restoration project (7th/43, NIPA AI Competition 2022).
   </li>
 
   <li>
