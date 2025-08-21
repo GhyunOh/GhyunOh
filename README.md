@@ -46,7 +46,7 @@
   </li>
 
   <li>
-    <a href="https://github.com/GhyunOh/Project/tree/main/telescope-log"><b>Telescope Log</b></a> — Structured logging and analysis for telescope observations.
+    <a href="https://github.com/GhyunOh/Project/tree/main/telscope-log"><b>Telescope Log</b></a> — Structured logging and analysis for telescope observations.
   </li>
 
   <li>
