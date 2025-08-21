@@ -29,12 +29,4 @@
           <br/></div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align="center">
-  <a href="mailto:jeehyun.oh98@gmail.com">Gmail</a> | 
-  <a href="https://www.linkedin.com/in/jeehyun-oh-967754261/">LinkedIn</a>
-</div>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
     
