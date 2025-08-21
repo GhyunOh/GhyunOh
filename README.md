@@ -58,11 +58,11 @@
 <ul style="list-style: none; padding-left: 0; line-height: 1.8; color:#c9d1d9;">
 
   <li>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10197743"><b>Hierarchical Transformer Model for Detecting Healthcare Misinformation in Korean</b></a> — IEEE Access, 2023.
+    <a href="https://ieeexplore.ieee.org/abstract/document/10197743"><b>ProvSec: Cybersecurity System Provenance Analysis Benchmark Dataset</b></a> — IEEE Access, 2023.
   </li>
 
   <li>
-    <a href="https://dl.acm.org/doi/abs/10.1145/3585059.3611416"><b>Automatic Generation of English Exam Problems Using Large Language Models</b></a> — ACM ICEMT, 2023.
+    <a href="https://dl.acm.org/doi/abs/10.1145/3585059.3611416"><b>A Comprehensive Dataset Towards Hands-on Experience Enhancement in a Research-Involved Cybersecurity Program</b></a> — ACM ICEMT, 2023.
   </li>
 
   <li>
