@@ -11,6 +11,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> I am Jeehyun Oh, a Computer Science graduate passionate about AI, computer vision, and automation. <br>I have experience in various AI  models, data processing, and backend development. </div> 
     </div>
     <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Projects </h2> <br> 
+    <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
