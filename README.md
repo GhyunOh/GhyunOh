@@ -42,7 +42,7 @@
   </li>
 
   <li>
-    <a href="https://github.com/GhyunOh/Project/tree/main/telescope-benchmark-prototype"><b>Telescope Benchmark Prototype</b></a> — Large log handling & performance benchmarking.
+    <a href="https://github.com/GhyunOh/Project/tree/main/telscope-benchmark-prototype"><b>Telescope Benchmark Prototype</b></a> — Large log handling & performance benchmarking.
   </li>
 
   <li>
